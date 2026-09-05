@@ -1,0 +1,16 @@
+﻿S.No.,Name,Document Type,Filename,Expected Demo Status,Page Count,Raw URL Template
+1,Technical Bid Package,OTHER TECHNICAL UPLOAD,01_Technical_Bid_Package.pdf,OK,6,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/01_Technical_Bid_Package.pdf
+2,Blank Voucher,Bank Instruments,02_Blank_Voucher.pdf,CHECK - intentionally blank,1,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/02_Blank_Voucher.pdf
+3,Bid Security,Bank Instruments,03_Bid_Security.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/03_Bid_Security.pdf
+4,Letter of Technical Bid,Letter of Technical Bid,04_Letter_of_Technical_Bid.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/04_Letter_of_Technical_Bid.pdf
+5,Credit Line Facility,Financial Resource upload,05_Credit_Line_Facility.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/05_Credit_Line_Facility.pdf
+6,Mixture and Vibrator,Other Equipment,06_Concrete_Mixture_and_Vibrator.pdf,OK,3,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/06_Concrete_Mixture_and_Vibrator.pdf
+7,Equipment VAT Bill,Other Equipment,07_Equipment_VAT_Bill.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/07_Equipment_VAT_Bill.pdf
+8,Concrete Pump,Other Equipment,08_Concrete_Pump_Document.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/08_Concrete_Pump_Document.pdf
+9,Additional Forms,Additional Forms,09_Additional_Forms.pdf,OK,4,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/09_Additional_Forms.pdf
+10,Tax Clearance 081-082,Tax Clearance Additional Document,10_Tax_Clearance_081_082.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/10_Tax_Clearance_081_082.pdf
+11,Company Registration,Company/Tax registration Additional Document,11_Company_Registration.pdf,OK,2,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/11_Company_Registration.pdf
+12,PAN Registration,Company/Tax registration Additional Document,12_PAN_Registration.pdf,OK,1,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/12_PAN_Registration.pdf
+13,Balance Sheets 077-080,Financial Documents From Profile,13_Balance_Sheets_077_080.pdf,OK,6,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/13_Balance_Sheets_077_080.pdf
+14,Income Statements 077-080,Financial Documents From Profile,14_Income_Statements_077_080.pdf,OK,3,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/14_Income_Statements_077_080.pdf
+15,General Construction Experience,Experience Related Documents,15_General_Construction_Experience.pdf,OK,4,https://raw.githubusercontent.com/<GITHUB_USERNAME>/Tender-PDF-Compiler/main/demo-files/15_General_Construction_Experience.pdf
