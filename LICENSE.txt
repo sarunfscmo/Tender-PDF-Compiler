@@ -1,0 +1,39 @@
+Tender PDF Compiler Freeware License v1.0
+Copyright (c) 2026 Sarun Bhomi. All rights reserved.
+
+This license applies only to the original Tender PDF Compiler application code,
+branding and documentation owned by the copyright holder. Third-party software
+components remain subject to their own licenses.
+
+1. FREE USE
+Permission is granted to use the official, unmodified Tender PDF Compiler
+binary free of charge for lawful personal and professional purposes.
+
+2. SOURCE CODE
+The source code is proprietary and is not distributed under this license.
+No source-code license is granted.
+
+3. REDISTRIBUTION
+Users should obtain the application from the official project release page.
+Repackaging, selling, renting, sublicensing, misrepresenting, or distributing
+modified versions under the Tender PDF Compiler name is not permitted without
+written permission from the copyright holder.
+
+4. NO OFFICIAL AFFILIATION
+Tender PDF Compiler is an independent utility. It is not an official product
+of, affiliated with, or endorsed by PPMO, Nepal e-GP, any public entity, or the
+Government of Nepal.
+
+5. NO PROCUREMENT DECISION
+The software assists with downloading and organizing documents. It does not
+determine bid responsiveness, eligibility, qualification, authenticity,
+validity, compliance, or award decisions.
+
+6. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. USERS ARE RESPONSIBLE FOR VERIFYING SOURCE DOCUMENTS, OUTPUT FILES AND
+ANY PROCUREMENT-RELATED DECISIONS.
+
+7. THIRD-PARTY SOFTWARE
+Open-source and other third-party components included with the application are
+licensed separately. Their applicable notices and license terms remain in force.

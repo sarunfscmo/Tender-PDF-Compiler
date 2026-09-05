@@ -1,0 +1,20 @@
+# Keep private development/build material out of this public repository
+*.py
+*.pyc
+*.pyo
+*.bat
+*.cmd
+*.spec
+__pycache__/
+.venv*/
+venv/
+build/
+dist/
+private/
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
