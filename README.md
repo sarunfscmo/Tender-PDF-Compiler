@@ -65,4 +65,4 @@ Tender PDF Compiler is an independent utility and is **not affiliated with, endo
 
 Tender PDF Compiler is freeware, not open source. See [LICENSE.txt](LICENSE.txt).
 
-Third-party components bundled with the application remain under their own licenses. See [THIRD_PARTY_NOTICES_DRAFT.md](THIRD_PARTY_NOTICES_DRAFT.md).
+Third-party components bundled with the application remain under their own licenses. 
