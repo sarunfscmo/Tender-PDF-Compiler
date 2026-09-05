@@ -1,6 +1,6 @@
 # Tender PDF Compiler
 
-**Tender PDF Compiler** is a free Windows utility for organizing authorized e-GP bid-response document downloads into one navigable PDF.
+**Tender PDF Compiler** is a free Windows desktop utility that retrieves authorized document links listed in e-GP Bid Response PDFs and compiles the retrieved material into one organized, navigable PDF.
 
 > **Status:** v1.0.0 release preparation  
 > **Platform:** Windows 10/11, 64-bit  
@@ -29,21 +29,24 @@ Network requests are made only as needed to retrieve the source URLs contained i
 
 See [PRIVACY.md](PRIVACY.md).
 
-## Demo material
+## Demo
 
-The [`demo-files`](demo-files/) folder contains **15 completely synthetic documents** designed for a public tutorial. They contain no real bidder, public-office, bank, PAN, tax, address, project or signature information.
+The repository includes a completely synthetic Works Bid Response demonstration package.
 
-One file, `02_Blank_Voucher.pdf`, is intentionally blank so the v1.0 blank-document warning can be demonstrated.
+- [`demo-files/`](demo-files/) contains 15 synthetic linked documents.
+- [`Demo/`](Demo/) contains the synthetic Bid Response PDF used for end-to-end testing.
 
-After this repository is uploaded, the final synthetic Bid Response PDF will use the public raw GitHub URLs of these files.
+The demo contains no real bidder, public-office, bank, PAN, tax, address, project or signature information.
+
+`02_Blank_Voucher.pdf` is intentionally blank so the blank-document warning can be demonstrated.
 
 ## Download
 
-The public Windows executable will be distributed through **GitHub Releases**, not committed as a normal repository source file.
+Windows builds are distributed through GitHub Releases.
 
-After the release is published:
+[View available releases](https://github.com/sarunfscmo/Tender-PDF-Compiler/releases)
 
-`https://github.com/sarunfscmo/Tender-PDF-Compiler/releases/latest`
+The current `v1.0.0-rc1` build is a pre-release for testing. Use the stable release once `v1.0.0` is published.
 
 
 ## Verification
